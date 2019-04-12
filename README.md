@@ -1,3 +1,3 @@
 # hello-world
-my first github repo
+MY FIRST GITHUB REPO
 Making a change to the branch. 
